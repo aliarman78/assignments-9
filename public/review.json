@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "Ali",
+    "rating": 5,
+    "reviewTitle": "The Model 3 Performance is everything in one. It is fast, it is quiet and comfortable; very comfortable seats actually."
+   
+  },
+  {
+    "id": "2",
+    "name": "Arman",
+    "rating": 4.9,
+    "reviewTitle": "The performance version is incredibly quick and for the money there's no other car on the road that will come speeds."
+   
+  },
+  {
+    "id": "3",
+    "name": "Tushar",
+    "rating": 4,
+    "reviewTitle": "Car rides well but unfortunately the Tesla service is severely lacking. No one answers the service call."
+   
+  },
+  {
+    "id": "4",
+    "name": "Asif",
+    "rating": 4.8,
+    "reviewTitle": "Tesla is fabulous at putting these cars together! My car was delivered with very little human intervention and get an instant price and delivery date."
+   
+  },
+  {
+    "id": "5",
+    "name": "Anik",
+    "rating": 4.9,
+    "reviewTitle": "This car never fails to surprise me, it's out of this world. I highly recommend taking one of these for a test drive, you will not be disappointed. "
+   
+  },
+  {
+    "id": "6",
+    "name": "Oney",
+    "rating": 4.8,
+    "reviewTitle": "I just love this car. It is the most reliable car that I have ever owned. Purchased for a 100 mile a day commute Could not have made a better choice especially."
+   
+  }
+  
+]
+
+
+
+
+
+
+
